@@ -1,0 +1,14 @@
+layout_spectrum: 0.10124678164720535
+typography_spectrum: 0.40615534223616123
+color:
+  brandStrength: 0.78954021865502
+  lightness: 0.43720077723264694
+  saturation: 0.8398916316218674
+  rhythmicContrast: 0.32844286994077265
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+name: regular pants
